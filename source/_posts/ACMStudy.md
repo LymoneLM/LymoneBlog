@@ -5,6 +5,7 @@ categories:
 tags:
   - C++
   - ACM
+abbrlink: 605add1b
 date: 2022-10-02 20:23:44
 ---
 

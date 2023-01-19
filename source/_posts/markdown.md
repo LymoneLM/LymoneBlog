@@ -1,10 +1,11 @@
 ---
 title: Markdown语法笔记
-date: 2022-07-05 18:18:57
 categories:
-- 开始
-tags: 
-- Markdown
+  - 开始
+tags:
+  - Markdown
+abbrlink: b60f5572
+date: 2022-07-05 18:18:57
 ---
 Hexo框架下的博客是使用.md记录的，所以我就浅浅的学习了一下Markdown的语法，在这里记录一下笔记，这一篇主要是开实时预览看文件，看这篇博客可能看的云里雾里的。<!--more-->
 

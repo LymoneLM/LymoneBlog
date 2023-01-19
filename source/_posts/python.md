@@ -1,10 +1,11 @@
 ---
 title: Python入门
-date: 2022-08-22 16:56:10
 categories:
-- 编程
-tags: 
-- Python
+  - 编程
+tags:
+  - Python
+abbrlink: d9ef328
+date: 2022-08-22 16:56:10
 ---
 
 这是一个预留的博客，主要是为了验证重新部署的hexo是否正常，同时预留作接下来python学习的记录

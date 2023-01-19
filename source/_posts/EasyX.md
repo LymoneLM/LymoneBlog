@@ -1,11 +1,12 @@
 ---
 title: C/C++图形库EasyX学习
-date: 2022-07-13 19:56:40
 categories:
-- 编程
+  - 编程
 tags:
-- C++
-- EasyX
+  - C++
+  - EasyX
+abbrlink: a2820ddb
+date: 2022-07-13 19:56:40
 ---
 
 ​	偶然在B站刷到了EasyX的教程，想了想我现在写C++确实全都是小黑框，于是快马加鞭的开始进行EasyX的学习，同时准备下一步学学QT（咕咕咕）

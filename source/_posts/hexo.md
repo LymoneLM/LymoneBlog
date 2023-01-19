@@ -1,10 +1,11 @@
 ---
 title: Hexo的使用
-date: 2022-07-05 20:39:47
 categories:
-- 开始
-tags: 
-- Hexo
+  - 开始
+tags:
+  - Hexo
+abbrlink: e15610f1
+date: 2022-07-05 20:39:47
 ---
 
 摘录自 [知乎@Unity晚阳](https://zhuanlan.zhihu.com/p/156915260)

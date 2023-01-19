@@ -1,12 +1,13 @@
 ---
 title: C++泛型编程学习
-date: 2022-09-30 11:33:17
 categories:
-- 编程
-tags: 
-- C++
-- 泛型编程
-- STL
+  - 编程
+tags:
+  - C++
+  - 泛型编程
+  - STL
+abbrlink: a83b63e7
+date: 2022-09-30 11:33:17
 ---
 
 看学长用STL，馋疯了。

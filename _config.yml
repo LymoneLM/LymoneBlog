@@ -4,9 +4,9 @@
 
 # Site
 title: '莱蒙黎梦'
-subtitle: '一些想法和学习记录'
-description: 不自由毋宁死           #简介或者格言
-keywords:
+subtitle: '记录学习与思想'
+description: 2023小目标，浅浅的拿个银牌           #简介或者格言
+keywords: ACM,ICPC,C++,C#,算法竞赛
 author: Lymone
 language: zh-CN
 timezone: Asia/Shanghai
@@ -14,11 +14,18 @@ timezone: Asia/Shanghai
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://www.lymone.cc
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/ #default
+permalink: p/:abbrlink.html  # p 是自定义的前缀
+abbrlink:
+    alg: crc32   #算法： crc16(default) and crc32
+    rep: hex     #进制： dec(default) and hex
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+sitemap: 
+    path: sitemap.xml
 
 # Directory
 source_dir: source
@@ -63,7 +70,7 @@ prismjs:
 index_generator:
   path: ''
   per_page: 10
-  order_by: -date
+  order_by: -date  #在文章的Front Matter中添加参数sticky即可实现首页置顶，数字越大排序越高（升序排序）
 
 # Category & Tag
 default_category: uncategorized
@@ -106,3 +113,13 @@ deploy:
   repository: git@github.com:LymoneLM/LymoneLM.github.io.git  #你的仓库地址
   branch: main
    
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  awl: 2
+  wpm: 300
+  suffix: "mins."
