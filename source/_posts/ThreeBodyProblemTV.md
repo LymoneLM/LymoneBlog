@@ -5,7 +5,7 @@ categories:
 tags:
   - 三体
   - 大刘
-abbrlink: d8e26cbc
+abbrlink: av170001
 date: 2023-01-16 00:15:00
 ---
 
@@ -49,7 +49,13 @@ date: 2023-01-16 00:15:00
 
 [第八集](https://jx.jsonplayer.com/player/?url=https://v.qq.com/x/cover/mzc002007knmh3g/v0045hnpdhr.html)
 
+[第九集](https://jx.jsonplayer.com/player/?url=https://v.qq.com/x/cover/mzc002007knmh3g/l00455u3s27.html)
 
+[第10集](https://jx.jsonplayer.com/player/?url=https://v.qq.com/x/cover/mzc002007knmh3g/a0045ouf83f.html)
+
+[第11集](https://jx.jsonplayer.com/player/?url=https://v.qq.com/x/cover/mzc002007knmh3g/v0045g0h2bi.html)
+
+[第12集](https://jx.jsonplayer.com/player/?url=https://v.qq.com/x/cover/mzc002007knmh3g/r0045d9xgtg.html)
 
 #### 2.使用脚本，一劳永逸
 
