@@ -1,0 +1,6 @@
+[submodule "source"]
+	path = source
+	url = git@github.com:LymoneLM/BlogPosts.git
+[submodule "themes/next"]
+	path = themes/next
+	url = git@github.com:LymoneLM/hexo-theme-next.git
